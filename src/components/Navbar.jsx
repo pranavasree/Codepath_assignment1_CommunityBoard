@@ -152,13 +152,13 @@ const Navbar = () => {
           </Link>
           <Link
             className=" hover:text-white transition-all cursor-pointer"
-            to="culinary-choices"
+            to="dishes"
             duration={500}
             smooth={true}
             spy={true}
             onClick={closeMenu}
           >
-            C-Choices
+            Dishes
           </Link>
           <Link
             className=" hover:text-white transition-all cursor-pointer"

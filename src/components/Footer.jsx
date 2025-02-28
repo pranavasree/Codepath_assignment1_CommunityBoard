@@ -84,11 +84,9 @@ const Footer = () => {
         </div>
       </div>
       <div>
-        <p>
-          <p className=" text-center py-4">
-            @copyright developed by
-            <span className=" text-gray-600"> Self </span> | All rights reserved
-          </p>
+        <p className=" text-center py-4">
+          @copyright developed by
+          <span className=" text-gray-600"> Self </span> | All rights reserved
         </p>
       </div>
     </div>

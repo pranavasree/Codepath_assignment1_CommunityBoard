@@ -13,7 +13,7 @@ const DishesCard = (props) => {
     <div className="w-full lg:w-1/4 p-5 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] rounded-lg">
       <img className="rounded-xl" src={props.img} alt="img"></img>
       <div className="space-y-4">
-        <div className="flex flex-row items-center justify-between gap-8">
+        <div className="flex flex-wrap items-center justify-between">
           <h3 className="font-semibold text-center text-xl pt-6">
             Item: {props.title}
           </h3>
@@ -21,7 +21,7 @@ const DishesCard = (props) => {
             Price: {props.price}
           </h3>
         </div>
-        <div className="flex flex-row justify-between">
+        <div className="flex flex-wrap justify-between">
           <div className="flex flex-row items-center">
             <h3 className="font-semibold text-center text-xl pr-2">Rating: </h3>
             <BsStarFill className="text-zinc-950" />

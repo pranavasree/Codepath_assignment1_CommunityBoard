@@ -28,7 +28,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 ![Project 1 walkthrough](./public/CodePath_Prework_Walkthrough.gif)
-![Project 1 walkthrough](./public/CodePath_Prework_Walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -36,7 +35,7 @@ GIF created with [LICECap](https://www.cockos.com/licecap/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Didn't face any challenges while building the app.
 
 ## License
 
