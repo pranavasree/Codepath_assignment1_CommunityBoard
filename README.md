@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Project 1 walkthrough](./src/CodePath_Prework_Walkthrough.gif)
+![Project 1 walkthrough](./public/CodePath_Prework_Walkthrough.gif)
+![Project 1 walkthrough](./public/CodePath_Prework_Walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
